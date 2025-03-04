@@ -30,3 +30,23 @@ body {
     font-size: 55px;
     font-weight: 700;
 }
+
+.section-main-subtitle {
+    margin-bottom: 40px;
+    color: #fff;
+    font-size: 22px;
+}
+
+.section-main-button {
+    background-color: #8fbc8f;
+    border-width: 0px;
+    border-radius: 25px;
+    color: #fff;
+    font-weight: 700;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 30px;
+    padding-right: 30px;
+    cursor: pointer;
+    text-transform: uppercase;
+}
